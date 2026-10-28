@@ -1,6 +1,6 @@
 {
-    "name": "widget",
-    "short_name": "widget",
+    "name": "create_widgets",
+    "short_name": "create_widgets",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
